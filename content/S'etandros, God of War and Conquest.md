@@ -1,7 +1,7 @@
 ---
 tags:
   - Gods
-title: S'etandros, God of War
+title: S'etandros, God of War and Conquest
 ---
 S'etandros watches eagerly as nations go to war. Those that love the thrill of the fight will find an extra measure of luck being sent their way. S'etandros is in the image of a monkey with white hair and red skin. It's thanks to this that a monkey is frequently seen as a symbol of war.
 # Ruler of the Strong

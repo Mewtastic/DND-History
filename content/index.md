@@ -19,7 +19,7 @@ This book catalogs my observations of the Budding Realms as I travel. The Buddin
 [[Orion, Guard of the Gods & God of the Hunt]]
 [[Kuushu, God of Sacrifice and Space]]
 [[Mori, Goddess of the Moon]]
-[[S'etandros, God of War]]
+[[S'etandros, God of War and Conquest]]
 [[Eislyn, Goddess of Dreams]]
 [[Echo of Antrophia, Personification of Chaos]]
 # Historical Figures
