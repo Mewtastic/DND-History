@@ -1,7 +1,7 @@
 ---
 title: Spell Ball
 ---
-A brutal sport where contestants commonly fight to the death. It was introduced by the Orcs and allegedly created by their god, Orion. It has not spread far from orc tradition, but it has entered [[The Obsidian Spires, Nation of Lira]] as a form of judgment of criminals.
+A brutal sport where contestants commonly fight to the death. It was introduced by the Orcs and allegedly created by their god, Orion. It has not spread far from orc tradition, but it has entered [[The Obsidian Spires, Nation of Lira#Judicial System|the Obsidian Spires]] as a form of judgment of criminals.
 # Rules
 - Spell Ball goes until a side has scored 3 out of 5 available points.
 - The ball starts in the center of the arena with each side 30 feet from the ball.

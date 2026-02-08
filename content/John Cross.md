@@ -19,4 +19,4 @@ Other than the initial story of John Cross, none else can be verified to have tr
 - 282: John Cross takes up work as an apprentice shipwright
 - 290: John Cross takes up piracy
 - 300: Capture of *The Emerald*
-- 324: Assumed death of John Cross
+- 324: Assumed death of John Crosseert

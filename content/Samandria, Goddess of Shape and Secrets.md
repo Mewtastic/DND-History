@@ -3,7 +3,7 @@ tags:
   - Gods
 title: Samandria, Goddess of Shape and Secrets
 ---
-Samandria is the goddess of all low creatures. She also created the divine race of changelings and the boon of the civilization, the mimics. In addition to these notable species she is responsible for guarding the [[Tir, God of Knowledge#The Great Library, Ohr|great library Ohr]].
+Samandria is the goddess of all low creatures. She also created the divine race of changelings and the boon of civilization, the mimics. In addition to these notable species she is responsible for guarding the [[Tir, God of Knowledge#The Great Library, Ohr|great library Ohr]].
 # The Changeling Network
 Most of Samandria's followers are the divine species of changelings. They are frequently sent to gather knowledge through the infiltration of societies and keep hidden secrets for storage in Ohr. Although it can't be verified, folktale details stories of how the changelings built the dungeons that now inhabit the Budding Realms.
 # Mimics

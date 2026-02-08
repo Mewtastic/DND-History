@@ -11,7 +11,7 @@ Although Zoe will always maintain the final say in matters pertaining to Aisha, 
 ### The Eye of the Court
 Some have speculated that the royal court has access to an extensive network of spies. In particular the [[Oligarchy of Cressida]] has made many attempts to learn how the royal court of Aisha seems to know so much information about foreign nations. Cressida has either refused to publish the existence of such an organization or it is currently unaware if such a network of spies exists.
 # Geography
-The Kingdom of Aisha is northwest of the [[Sea of Mortimer]], making it particularly prosperous because of trade of sea and its rich agricultural climate. However as a result of it's unique location it is quite susceptible to severe storms.
+The Kingdom of Aisha is northwest of the [[Sea of Mortimer]], making it particularly prosperous because over trade of sea and its rich agricultural climate. However as a result of it's unique location it is quite susceptible to severe storms.
 ## Capital City Districts
 Aisha's capital is divided into three separate districts. While none of the districts are poor by any means, Aisha is separated into three general classes of people. 
 ### Farming District
@@ -29,7 +29,7 @@ Inside the noble district are four notable locations:
 The Kingdom of Aisha rules over a wide variety of territories. While the task of governing each and every one of these is far too much for the crown alone to handle, it is more than manageable thanks to the system of nobility that allows designated nobles to govern various lands as representatives to the crown.
 ### Vassal Cities of Importance
 - Kreel: A notable port town which exports a large amount of sugar.
-- Drahkohm: A cold mining town that lies far to the West of Aisha.
+- Drahkohm: A cold, mining town that lies far to the West of Aisha.
 - Dreadfell: This southern city was the line that Cressida could not pass during the war. The cost of life however, will forever be etched into their history and its new name.
 - Circui: (Sir-see) A somewhat experimental city that heavily relies on magic to increase the standard of living.
 - Sunpetal: This city is known to have over a thousand unique varieties of flowers including seven endemic species of flowers.
@@ -42,7 +42,7 @@ The Kingdom of Aisha rules over a wide variety of territories. While the task of
 - 99: Construction of Aisha's School of the Arcane finished
 - 100-289: *~~ohtyssateerl~~*
 - 290: *The Emerald* is commissioned. [[John Cross|John]], a Shipwright, takes to piracy
-- 300: *The Emerald* departs on its maiden voyage. the First King dies
+- 300: *The Emerald* departs on its maiden voyage. The First King dies
 - 300-340: Queen Zoe grieves for 40 years. A Gnomish artificer gifts her a relic of time
 - 342: Gambling ruled illegal, seen by Zoe as an activity associated with piracy
 - 346: Slavery abolished
