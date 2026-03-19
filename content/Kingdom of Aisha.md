@@ -7,7 +7,7 @@ A land blessed by the Gods. It was founded by [[Queen Zoe, of Aisha]] and her la
 # Political System
 A monarchy based system. The current ruler is her highness Queen Zoe, following the death of late husband, [[Aisha's First Ruler]] in the tragedy of the Emerald treasure ship.
 ## The Royal Court
-Although Zoe will always maintain the final say in matters pertaining to Aisha, she does have a royal court to advise her. She has selected exclusively her most trusted children as her council. Betrayal from them? Unthinkable. 
+Although Zoe will always maintain the final say in matters pertaining to Aisha, she does have a royal court to advise her. She has selected exclusively her most trusted children as her council. Betrayal from them? Unthinkable.
 ### The Eye of the Court
 Some have speculated that the royal court has access to an extensive network of spies. In particular the [[Oligarchy of Cressida]] has made many attempts to learn how the royal court of Aisha seems to know so much information about foreign nations. Cressida has either refused to publish the existence of such an organization or it is currently unaware if such a network of spies exists.
 # Geography
@@ -28,11 +28,11 @@ Inside the noble district are four notable locations:
 ## Vassal Territories
 The Kingdom of Aisha rules over a wide variety of territories. While the task of governing each and every one of these is far too much for the crown alone to handle, it is more than manageable thanks to the system of nobility that allows designated nobles to govern various lands as representatives to the crown.
 ### Vassal Cities of Importance
-- Kreel: A notable port town which exports a large amount of sugar.
-- Drahkohm: A cold, mining town that lies far to the West of Aisha.
+- Kreel: A notable port town which exports a large amount of sugar. Kreel lies southwest of Aisha.
+- Drahkohm: A cold, mining town that lies far to the northwest of Aisha.
 - Dreadfell: This southern city was the line that Cressida could not pass during the war. The cost of life however, will forever be etched into their history and its new name.
-- Circui: (Sir-see) A somewhat experimental city that heavily relies on magic to increase the standard of living.
-- Sunpetal: This city is known to have over a thousand unique varieties of flowers including seven endemic species of flowers.
+- Circui: (Sir-see) A somewhat experimental city that heavily relies on magic to increase the standard of living. Circui is farther north of Circui.
+- Sunpetal: This city is known to have over a thousand unique varieties of flowers including seven endemic species of flowers. Sunpetal stands in more mountainous terrain, though it is difficult to say they have any major mountains. It is far to the southwest of Aisha.
 # Historical Events
 - 0: Founding of Aisha
 - 12: Construction of Aisha's temple finished

@@ -1,7 +1,7 @@
 ---
 tags:
   - Nobles
-title: Laywin Blighte
+title: Leywin Blighte
 ---
 Leywin Blighte is one of the most forward thinking nobles to have ever lived. Governing [[Oligarchy of Cressida#New Asha|Asha]] until it's declaration of independence from the [[Kingdom of Aisha]], the city held one of the highest average standards of living in the whole Kingdom of Aisha. 
 # Characteristics

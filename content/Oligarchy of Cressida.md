@@ -46,9 +46,9 @@ The wealthiest families of Cressida also reside here in the capital city. Thanks
 Most people will never see anything other than the extremely rich sections of New Asha, but that does not mean the poor do not exist. Quite the contrary the difficulty in finding the poor speaks to the depths of poverty that can be found. Within New Asha proper you'll have to search sewage systems to have a dash of hope in meeting those less fortunate. Outside the city lies a slum only a couple kilometers from New Asha itself.
 ## The Three Captured Cities
 During the war with the Kingdom of Aisha, Cressida managed to capture three additional cities other than New Asha itself. These have been instrumental in contributing to Cressida's credibility as a legitimate nation. The cities are as follows.
-- Salem: A prosperous silk town, which house Svila owns a great deal of territory in.
-- Ironshade: The most northern city. It makes for a great first defense against Aisha because of its iron mine and skilled blacksmiths. 
-- Ashthorn: A poor coal mining city with no other major exports.
+- Salem: A prosperous silk town, which house Svila owns a great deal of territory in. Not far north of New Asha.
+- Ironshade: The most northern city to hail Cressida. It makes for a great first defense against Aisha because of its iron mine and skilled blacksmiths.
+- Ashthorn: A poor coal mining city with no other major exports. It stands southeast of Ironshade.
 # Historical Events
 - 435: Nine noble families of Aisha form the Cressidan party plotting to fight Queen Zoe
 - 456: Cressida declares freedom in Asha, a city jointly owned by the Cressidan party
@@ -58,4 +58,4 @@ During the war with the Kingdom of Aisha, Cressida managed to capture three addi
 - 499: Aisha taxes the goods exported from Cressida to Aisha. Cressida threatens war
 - 500: Cressida votes seven against five to avoid going to war
 - 512: Ashford family head dies. His only son takes his place as head of the family
-- 513: Cressida calls for a vote to see about entering into war with Aisha
+- 513: Cressida enters into war with the Kingdom of Aisha
