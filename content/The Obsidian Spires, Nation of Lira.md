@@ -2,6 +2,7 @@
 tags:
   - Nation
 title: The Obsidian Spires, Nation of Lira
+description: The despicable Obsidian Spires, a nation of greed and crime.
 ---
 Founded in 289, the Obsidian Spires stand in opposition to the Kingdom of Aisha. Founded but only three centuries ago, it stands as a den for the most vile of individuals: pirates, thieves, necromancers, oath breakers, and the profane. It has remained out of foreign conflicts, which has lent to its success despite enabling extensive organized crime.
 # Political System

@@ -2,6 +2,7 @@
 tags:
   - Nation
 title: The Oligarchy of Cressida
+description: A united series of conquered towns, eyes set on fortunes and freedom from Aishan luxury tax.
 ---
 The Oligarchy of Cressida was founded sixty years ago in the year 456. Some of the nobility displeased with [[Queen Zoe, of Aisha]]'s political decisions and laws decided to declare freedom and political sovereignty from the [[Kingdom of Aisha]]. They took an annexed territory from Aisha formerly known as Asha.
 # War with Aisha

@@ -2,6 +2,7 @@
 tags:
   - Nation
 title: The Kingdom of Aisha
+description: "The Kingdom of Aisha: a holy nation blessed by the gods."
 ---
 A land blessed by the Gods. It was founded by [[Queen Zoe, of Aisha]] and her late husband with the blessings of the Gods. It is by far the most prosperous nation in the Budding Realms.
 # Political System
