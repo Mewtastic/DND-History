@@ -49,7 +49,7 @@ Most people will never see anything other than the extremely rich sections of Ne
 During the war with the Kingdom of Aisha, Cressida managed to capture three additional cities other than New Asha itself. These have been instrumental in contributing to Cressida's credibility as a legitimate nation. The cities are as follows.
 - Salem: A prosperous silk town, which house Svila owns a great deal of territory in. Not far north of New Asha.
 - Ironshade: The most northern city to hail Cressida. It makes for a great first defense against Aisha because of its iron mine and skilled blacksmiths.
-- Ashthorn: A poor coal mining city with no other major exports. It stands southeast of Ironshade.
+- Ashthorn: A poor coal mining city with no other major exports. It stands southwest of Ironshade.
 # Historical Events
 - 435: Nine noble families of Aisha form the Cressidan party plotting to fight Queen Zoe
 - 456: Cressida declares freedom in Asha, a city jointly owned by the Cressidan party
