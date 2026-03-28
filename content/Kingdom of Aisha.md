@@ -32,7 +32,7 @@ The Kingdom of Aisha rules over a wide variety of territories. While the task of
 - Kreel: A notable port town which exports a large amount of sugar. Kreel lies southwest of Aisha.
 - Drahkohm: A cold, mining town that lies far to the northwest of Aisha.
 - Dreadfell: This southern city was the line that Cressida could not pass during the war. The cost of life however, will forever be etched into their history and its new name.
-- Circui: (Sir-see) A somewhat experimental city that heavily relies on magic to increase the standard of living. Circui is farther north of Circui.
+- Circui: (Sir-swee) A somewhat experimental city that heavily relies on magic to increase the standard of living. Circui is farther north of Dreadfell.
 - Sunpetal: This city is known to have over a thousand unique varieties of flowers including seven endemic species of flowers. Sunpetal stands in more mountainous terrain, though it is difficult to say they have any major mountains. It is far to the southwest of Aisha.
 # Historical Events
 - 0: Founding of Aisha
